@@ -1,1 +1,0 @@
-# Day40_PracticeProblems_JSArrowFunction
